@@ -1,0 +1,10 @@
+this is librarie's info file.
+
+include files for program. (cpp header file)
+--------public libs:
+point
+types
+--------physics libs:
+shape
+body
+
